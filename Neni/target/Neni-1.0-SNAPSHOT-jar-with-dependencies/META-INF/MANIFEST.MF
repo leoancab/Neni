@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: leoan
+Build-Jdk: 21
+Main-Class: com.mycompany.neni.App
+
